@@ -1,0 +1,878 @@
+Name,Team,League,Position,Salary
+Zack Greinke,Arizona Diamondbacks,NL,SP,32421884
+David Peralta,Arizona Diamondbacks,NL,LF,7000000
+Eduardo Escobar,Arizona Diamondbacks,NL,3B,6166666
+Robbie Ray,Arizona Diamondbacks,NL,SP,6050000
+Taijuan Walker,Arizona Diamondbacks,NL,SP,5025000
+Jake Lamb,Arizona Diamondbacks,NL,1B,4825000
+Alex Avila,Arizona Diamondbacks,NL,C,4250000
+Wilmer Flores,Arizona Diamondbacks,NL,2B,4250000
+Steven Souza Jr.,Arizona Diamondbacks,NL,RF,4125000
+Jarrod Dyson,Arizona Diamondbacks,NL,OF,3750000
+Nick Ahmed,Arizona Diamondbacks,NL,SS,3662500
+Yoshihisa Hirano,Arizona Diamondbacks,NL,RP,3250000
+Greg Holland,Arizona Diamondbacks,NL,RP,3250000
+Adam Jones,Arizona Diamondbacks,NL,OF,3000000
+Ketel Marte,Arizona Diamondbacks,NL,CF,2600000
+Merrill Kelly,Arizona Diamondbacks,NL,SP,2250000
+Andrew Chafin,Arizona Diamondbacks,NL,RP,1945000
+Archie Bradley,Arizona Diamondbacks,NL,RP,1830000
+T.J. McFarland,Arizona Diamondbacks,NL,RP,1450000
+Matt Andriese,Arizona Diamondbacks,NL,RP,920000
+John Ryan Murphy,Arizona Diamondbacks,NL,C,900000
+Zack Godley,Arizona Diamondbacks,NL,SP,609400
+Luke Weaver,Arizona Diamondbacks,NL,SP,581300
+Silvino Bracho,Arizona Diamondbacks,NL,RP,574600
+Matt Koch,Arizona Diamondbacks,NL,RP,567600
+Carson Kelly,Arizona Diamondbacks,NL,C,560000
+Christian Walker,Arizona Diamondbacks,NL,1B,559800
+Yoan Lopez,Arizona Diamondbacks,NL,RP,556900
+Ildemaro Vargas,Arizona Diamondbacks,NL,SS,555000
+Josh Donaldson,Atlanta Braves,NL,3B,23000000
+Freddie Freeman,Atlanta Braves,NL,1B,21359375
+Julio Teheran,Atlanta Braves,NL,SP,11166666
+Kevin Gausman,Atlanta Braves,NL,SP,9350000
+Darren O'''Day,Atlanta Braves,NL,RP,8854712
+Tyler Flowers,Atlanta Braves,NL,C,6000000
+Nick Markakis,Atlanta Braves,NL,RF,6000000
+Ender Inciarte,Atlanta Braves,NL,CF,5700000
+Mike Foltynewicz,Atlanta Braves,NL,SP,5475000
+Arodys Vizcaino,Atlanta Braves,NL,RP,4800000
+Jonny Venters,Atlanta Braves,NL,RP,2250000
+Brian McCann,Atlanta Braves,NL,C,2000000
+Charlie Culberson,Atlanta Braves,NL,SS,1395000
+Matt Joyce,Atlanta Braves,NL,OF,1250000
+Josh Tomlin,Atlanta Braves,NL,RP,1250000
+Dansby Swanson,Atlanta Braves,NL,SS,585000
+Luke Jackson,Atlanta Braves,NL,RP,585000
+Ozzie Albies,Atlanta Braves,NL,2B,575000
+Jesse Biddle,Atlanta Braves,NL,RP,575000
+Johan Camargo,Atlanta Braves,NL,3B,575000
+Sean Newcomb,Atlanta Braves,NL,SP,575000
+Shane Carle,Atlanta Braves,NL,RP,575000
+A.J. Minter,Atlanta Braves,NL,RP,575000
+Max Fried,Atlanta Braves,NL,RP,565000
+Bryse Wilson,Atlanta Braves,NL,SP,565000
+Kyle Wright,Atlanta Braves,NL,SP,565000
+Chad Sobotka,Atlanta Braves,NL,RP,565000
+Wes Parsons,Atlanta Braves,NL,RP,565000
+Ronald Acuna Jr.,Atlanta Braves,NL,LF,560000
+Chris Davis,Baltimore Orioles,AL,1B,21116517
+Alex Cobb,Baltimore Orioles,AL,SP,14000000
+Mark Trumbo,Baltimore Orioles,AL,DH,13274428
+Andrew Cashner,Baltimore Orioles,AL,SP,9500000
+Jonathan Villar,Baltimore Orioles,AL,2B,4825000
+Dylan Bundy,Baltimore Orioles,AL,SP,2800000
+Mychal Givens,Baltimore Orioles,AL,RP,2150000
+Jesus Sucre,Baltimore Orioles,AL,C,850000
+Nate Karns,Baltimore Orioles,AL,RP,800000
+Hanser Alberto,Baltimore Orioles,AL,3B,578000
+Trey Mancini,Baltimore Orioles,AL,LF,575500
+Richard Bleier,Baltimore Orioles,AL,RP,572500
+Joey Rickard,Baltimore Orioles,AL,RF,570000
+Miguel Castro,Baltimore Orioles,AL,RP,569000
+Mike Wright,Baltimore Orioles,AL,SP,567500
+Pedro Severino,Baltimore Orioles,AL,C,563500
+David Hess,Baltimore Orioles,AL,SP,563500
+Renato Nunez,Baltimore Orioles,AL,3B,562000
+Dwight Smith Jr.,Baltimore Orioles,AL,OF,560100
+Paul Fry,Baltimore Orioles,AL,RP,559000
+Jimmy Yacabonis,Baltimore Orioles,AL,RP,559000
+Rio Ruiz,Baltimore Orioles,AL,3B,558500
+Austin Wynns,Baltimore Orioles,AL,C,558000
+Cedric Mullins,Baltimore Orioles,AL,CF,557500
+Pedro Araujo,Baltimore Orioles,AL,RP,557000
+John Means,Baltimore Orioles,AL,RP,555500
+Richie Martin,Baltimore Orioles,AL,SS,555000
+Drew Jackson,Baltimore Orioles,AL,SS,555000
+David Price,Boston Red Sox,AL,SP,31000000
+J.D. Martinez,Boston Red Sox,AL,OF,23750000
+Rick Porcello,Boston Red Sox,AL,SP,21125000
+Mookie Betts,Boston Red Sox,AL,RF,20000000
+Nathan Eovaldi,Boston Red Sox,AL,SP,17000000
+Chris Sale,Boston Red Sox,AL,SP,15000000
+Dustin Pedroia,Boston Red Sox,AL,2B,14521686
+Xander Bogaerts,Boston Red Sox,AL,SS,12000000
+Jackie Bradley Jr.,Boston Red Sox,AL,CF,8550000
+Mitch Moreland,Boston Red Sox,AL,1B,6500000
+Steve Pearce,Boston Red Sox,AL,1B,6250000
+Eduardo Nunez,Boston Red Sox,AL,3B,5000000
+Eduardo Rodriguez,Boston Red Sox,AL,SP,4300000
+Brock Holt,Boston Red Sox,AL,2B,3575000
+Christian Vazquez,Boston Red Sox,AL,C,2933333
+Tyler Thornburg,Boston Red Sox,AL,RP,1750000
+Matt Barnes,Boston Red Sox,AL,RP,1600000
+Steven Wright,Boston Red Sox,AL,SP,1375000
+Heath Hembree,Boston Red Sox,AL,RP,1312500
+Brandon Workman,Boston Red Sox,AL,RP,1150000
+Blake Swihart,Boston Red Sox,AL,C,910000
+Andrew Benintendi,Boston Red Sox,AL,LF,717500
+Rafael Devers,Boston Red Sox,AL,3B,614500
+Ryan Brasier,Boston Red Sox,AL,RP,577500
+Brian Johnson,Boston Red Sox,AL,RP,575000
+Hector Velazquez,Boston Red Sox,AL,RP,568500
+Marco Hernandez,Boston Red Sox,AL,3B,564000
+Sam Travis,Boston Red Sox,AL,1B,558500
+Colten Brewer,Boston Red Sox,AL,RP,557000
+Jon Lester,Chicago Cubs,NL,SP,27500000
+Yu Darvish,Chicago Cubs,NL,SP,20000000
+Cole Hamels,Chicago Cubs,NL,SP,20000000
+Jason Heyward,Chicago Cubs,NL,RF,20000000
+Kris Bryant,Chicago Cubs,NL,3B,12900000
+Ben Zobrist,Chicago Cubs,NL,2B,12500000
+Tyler Chatwood,Chicago Cubs,NL,RP,12500000
+Anthony Rizzo,Chicago Cubs,NL,1B,12285714
+Jose Quintana,Chicago Cubs,NL,SP,10500000
+Brandon Morrow,Chicago Cubs,NL,RP,10500000
+Steve Cishek,Chicago Cubs,NL,RP,7500000
+Kyle Hendricks,Chicago Cubs,NL,SP,7405000
+Pedro Strop,Chicago Cubs,NL,RP,6250000
+Javier Baez,Chicago Cubs,NL,SS,5200000
+Brandon Kintzler,Chicago Cubs,NL,RP,5000000
+Addison Russell,Chicago Cubs,NL,SS,3400000
+Kyle Schwarber,Chicago Cubs,NL,LF,3390000
+Brad Brach,Chicago Cubs,NL,RP,3000000
+Mike Montgomery,Chicago Cubs,NL,RP,2440000
+Daniel Descalso,Chicago Cubs,NL,2B,2000000
+Carl Edwards Jr.,Chicago Cubs,NL,RP,1500000
+Xavier Cedeno,Chicago Cubs,NL,RP,900000
+Tony Barnette,Chicago Cubs,NL,RP,750000
+Willson Contreras,Chicago Cubs,NL,C,684000
+Albert Almora Jr.,Chicago Cubs,NL,OF,615500
+Kendall Graveman,Chicago Cubs,NL,SP,575000
+Victor Caratini,Chicago Cubs,NL,C,569500
+Randy Rosario,Chicago Cubs,NL,RP,564000
+David Bote,Chicago Cubs,NL,3B,561500
+Mark Zagunis,Chicago Cubs,NL,RF,556500
+Joey Votto,Cincinnati Reds,NL,1B,25000000
+Matt Kemp,Cincinnati Reds,NL,OF,21500000
+Tanner Roark,Cincinnati Reds,NL,SP,10000000
+Scooter Gennett,Cincinnati Reds,NL,2B,9775000
+Yasiel Puig,Cincinnati Reds,NL,RF,9700000
+Alex Wood,Cincinnati Reds,NL,SP,9650000
+Sonny Gray,Cincinnati Reds,NL,SP,7500000
+Eugenio Suarez,Cincinnati Reds,NL,3B,7285714
+Raisel Iglesias,Cincinnati Reds,NL,RP,6000000
+Tucker Barnhart,Cincinnati Reds,NL,C,2937500
+Jose Peraza,Cincinnati Reds,NL,2B,2775000
+David Hernandez,Cincinnati Reds,NL,RP,2500000
+Jose Iglesias,Cincinnati Reds,NL,SS,2500000
+Jared Hughes,Cincinnati Reds,NL,RP,2250000
+Anthony DeSclafani,Cincinnati Reds,NL,SP,2125000
+Zach Duke,Cincinnati Reds,NL,RP,2000000
+Derek Dietrich,Cincinnati Reds,NL,LF,2000000
+Michael Lorenzen,Cincinnati Reds,NL,RP,1950000
+Curt Casali,Cincinnati Reds,NL,C,950000
+Scott Schebler,Cincinnati Reds,NL,CF,625000
+Jesse Winker,Cincinnati Reds,NL,LF,580000
+Tyler Mahle,Cincinnati Reds,NL,SP,570000
+Wandy Peralta,Cincinnati Reds,NL,RP,570000
+Amir Garrett,Cincinnati Reds,NL,RP,567500
+Robert Stephenson,Cincinnati Reds,NL,SP,565000
+Kyle Farmer,Cincinnati Reds,NL,C,557500
+Alex Blandino,Cincinnati Reds,NL,3B,557500
+Carlos Santana,Cleveland Indians,AL,1B,20500000
+Corey Kluber,Cleveland Indians,AL,SP,17200000
+Jason Kipnis,Cleveland Indians,AL,2B,14666667
+Trevor Bauer,Cleveland Indians,AL,SP,13000000
+Francisco Lindor,Cleveland Indians,AL,SS,10550000
+Carlos Carrasco,Cleveland Indians,AL,SP,10500000
+Brad Hand,Cleveland Indians,AL,RP,7416666
+Danny Salazar,Cleveland Indians,AL,SP,4500000
+Jose Ramirez,Cleveland Indians,AL,3B,4150000
+Leonys Martin,Cleveland Indians,AL,CF,3000000
+Roberto Perez,Cleveland Indians,AL,C,2625000
+Oliver Perez,Cleveland Indians,AL,RP,2500000
+Dan Otero,Cleveland Indians,AL,RP,1350000
+Kevin Plawecki,Cleveland Indians,AL,C,1137500
+Neil Ramirez,Cleveland Indians,AL,RP,1000000
+Brad Miller,Cleveland Indians,AL,2B,1000000
+Hanley Ramirez,Cleveland Indians,AL,DH,1000000
+Mike Clevinger,Cleveland Indians,AL,SP,592200
+Tyler Naquin,Cleveland Indians,AL,RF,574800
+Max Moroff,Cleveland Indians,AL,2B,570500
+Jordan Luplow,Cleveland Indians,AL,OF,564500
+Adam Cimber,Cleveland Indians,AL,RP,563800
+Bradley Zimmer,Cleveland Indians,AL,CF,561200
+Tyler Olson,Cleveland Indians,AL,RP,560900
+Jake Bauers,Cleveland Indians,AL,LF,560400
+Greg Allen,Cleveland Indians,AL,OF,560400
+Shane Bieber,Cleveland Indians,AL,SP,559600
+Jon Edwards,Cleveland Indians,AL,RP,555900
+Eric Stamets,Cleveland Indians,AL,SS,555000
+Nolan Arenado,Colorado Rockies,NL,3B,26000000
+Charlie Blackmon,Colorado Rockies,NL,CF,21516666
+Wade Davis,Colorado Rockies,NL,RP,18333333
+Ian Desmond,Colorado Rockies,NL,CF,15400000
+Daniel Murphy,Colorado Rockies,NL,1B,13000000
+Bryan Shaw,Colorado Rockies,NL,RP,9166666
+Jake McGee,Colorado Rockies,NL,RP,9166666
+Mike Dunn,Colorado Rockies,NL,RP,7333333
+Trevor Story,Colorado Rockies,NL,SS,5000000
+Chris Iannetta,Colorado Rockies,NL,C,4525000
+Chad Bettis,Colorado Rockies,NL,SP,3325000
+Jon Gray,Colorado Rockies,NL,SP,2925000
+Tyler Anderson,Colorado Rockies,NL,SP,2625000
+Seunghwan Oh,Colorado Rockies,NL,RP,2500000
+Chris Rusin,Colorado Rockies,NL,RP,1687500
+Scott Oberg,Colorado Rockies,NL,RP,1300000
+Mark Reynolds,Colorado Rockies,NL,1B,1000000
+Tony Wolters,Colorado Rockies,NL,C,960000
+German Marquez,Colorado Rockies,NL,SP,565000
+Kyle Freeland,Colorado Rockies,NL,SP,565000
+David Dahl,Colorado Rockies,NL,LF,560000
+Ryan McMahon,Colorado Rockies,NL,2B,560000
+Raimel Tapia,Colorado Rockies,NL,OF,560000
+Antonio Senzatela,Colorado Rockies,NL,SP,560000
+Garrett Hampson,Colorado Rockies,NL,2B,557000
+DJ Johnson,Colorado Rockies,NL,RP,557000
+Harrison Musgrave,Colorado Rockies,NL,RP,557000
+Jose Abreu,Chicago White Sox,AL,1B,16000000
+Ivan Nova,Chicago White Sox,AL,SP,9166667
+Kelvin Herrera,Chicago White Sox,AL,RP,9000000
+Yonder Alonso,Chicago White Sox,AL,DH,8500000
+Welington Castillo,Chicago White Sox,AL,C,7500000
+Alex Colome,Chicago White Sox,AL,RP,7325000
+Nate Jones,Chicago White Sox,AL,RP,4650000
+Yolmer Sanchez,Chicago White Sox,AL,2B,4625000
+Carlos Rodon,Chicago White Sox,AL,SP,4200000
+Jon Jay,Chicago White Sox,AL,RF,4000000
+James McCann,Chicago White Sox,AL,C,2500000
+Eloy Jimenez,Chicago White Sox,AL,LF,2333333
+Leury Garcia,Chicago White Sox,AL,OF,1550000
+Tim Anderson,Chicago White Sox,AL,SS,1400000
+Reynaldo Lopez,Chicago White Sox,AL,SP,580000
+Yoan Moncada,Chicago White Sox,AL,3B,575000
+Lucas Giolito,Chicago White Sox,AL,SP,573000
+Adam Engel,Chicago White Sox,AL,CF,571000
+Dylan Covey,Chicago White Sox,AL,RP,571000
+Jace Fry,Chicago White Sox,AL,RP,569000
+Daniel Palka,Chicago White Sox,AL,OF,567000
+Jose Rondon,Chicago White Sox,AL,SS,560000
+Manny Banuelos,Chicago White Sox,AL,RP,559000
+Ryan Burr,Chicago White Sox,AL,RP,556000
+Ian Hamilton,Chicago White Sox,AL,RP,556000
+Michael Kopech,Chicago White Sox,AL,SP,555000
+Caleb Frare,Chicago White Sox,AL,RP,555000
+Ryan Cordell,Chicago White Sox,AL,OF,555000
+Miguel Cabrera,Detroit Tigers,AL,DH,30000000
+Jordan Zimmermann,Detroit Tigers,AL,SP,25000000
+Nick Castellanos,Detroit Tigers,AL,RF,9950000
+Tyson Ross,Detroit Tigers,AL,SP,5750000
+Jordy Mercer,Detroit Tigers,AL,SS,5250000
+Shane Greene,Detroit Tigers,AL,RP,4000000
+Michael Fulmer,Detroit Tigers,AL,SP,2800000
+Matt Boyd,Detroit Tigers,AL,SP,2600000
+Matt Moore,Detroit Tigers,AL,SP,2500000
+Josh Harrison,Detroit Tigers,AL,2B,2000000
+Blaine Hardy,Detroit Tigers,AL,RP,1300000
+Daniel Norris,Detroit Tigers,AL,SP,1275000
+Gordon Beckham,Detroit Tigers,AL,2B,700000
+Niko Goodrum,Detroit Tigers,AL,2B,670500
+Mikie Mahtook,Detroit Tigers,AL,CF,574500
+Buck Farmer,Detroit Tigers,AL,RP,570800
+Joe Jimenez,Detroit Tigers,AL,RP,569200
+Drew VerHagen,Detroit Tigers,AL,RP,567400
+JaCoby Jones,Detroit Tigers,AL,CF,567100
+John Hicks,Detroit Tigers,AL,C,567100
+Daniel Stumpf,Detroit Tigers,AL,RP,566600
+Victor Alcantara,Detroit Tigers,AL,RP,559100
+Grayson Greiner,Detroit Tigers,AL,C,558600
+Christin Stewart,Detroit Tigers,AL,LF,556400
+Spencer Turnbull,Detroit Tigers,AL,SP,556100
+Reed Garrett,Detroit Tigers,AL,RP,555000
+Gregory Soto,Detroit Tigers,AL,RP,555000
+Dustin Peterson,Detroit Tigers,AL,OF,555000
+Justin Verlander,Houston Astros,AL,SP,28000000
+Michael Brantley,Houston Astros,AL,LF,16000000
+Gerrit Cole,Houston Astros,AL,SP,13500000
+Josh Reddick,Houston Astros,AL,RF,13000000
+George Springer,Houston Astros,AL,CF,12000000
+Yulieski Gurriel,Houston Astros,AL,1B,10000000
+Jose Altuve,Houston Astros,AL,2B,9500000
+Joe Smith,Houston Astros,AL,RP,8000000
+Roberto Osuna,Houston Astros,AL,RP,6500000
+Collin McHugh,Houston Astros,AL,SP,5800000
+Robinson Chirinos,Houston Astros,AL,C,5750000
+Carlos Correa,Houston Astros,AL,SS,5000000
+Hector Rondon,Houston Astros,AL,RP,4500000
+Wade Miley,Houston Astros,AL,SP,4500000
+Will Harris,Houston Astros,AL,RP,4225000
+Lance McCullers Jr.,Houston Astros,AL,SP,4100000
+Brad Peacock,Houston Astros,AL,SP,3110000
+Ryan Pressly,Houston Astros,AL,RP,2900000
+Jake Marisnick,Houston Astros,AL,OF,2212500
+Aledmys Diaz,Houston Astros,AL,SS,2000000
+Chris Devenski,Houston Astros,AL,RP,1525000
+Alex Bregman,Houston Astros,AL,3B,640500
+Max Stassi,Houston Astros,AL,C,590100
+Tony Kemp,Houston Astros,AL,LF,583600
+Tyler White,Houston Astros,AL,1B,582900
+Josh James,Houston Astros,AL,RP,566800
+Framber Valdez,Houston Astros,AL,RP,566600
+Alex Gordon,Kansas City Royals,AL,LF,21000000
+Ian Kennedy,Kansas City Royals,AL,SP,16500000
+Danny Duffy,Kansas City Royals,AL,SP,15250000
+Salvador Perez,Kansas City Royals,AL,C,11200000
+Billy Hamilton,Kansas City Royals,AL,CF,5250000
+Jorge Soler,Kansas City Royals,AL,RF,4666666
+Wily Peralta,Kansas City Royals,AL,RP,3250000
+Chris Owings,Kansas City Royals,AL,SS,3000000
+Jake Diekman,Kansas City Royals,AL,RP,2750000
+Martin Maldonado,Kansas City Royals,AL,C,2500000
+Brad Boxberger,Kansas City Royals,AL,RP,2200000
+Lucas Duda,Kansas City Royals,AL,1B,1250000
+Whit Merrifield,Kansas City Royals,AL,2B,1187500
+Jesse Hahn,Kansas City Royals,AL,SP,800000
+Brian Flynn,Kansas City Royals,AL,RP,800000
+Scott Barlow,Kansas City Royals,AL,SP,650000
+Terrance Gore,Kansas City Royals,AL,OF,650000
+Jakob Junis,Kansas City Royals,AL,SP,578250
+Kevin McCarthy,Kansas City Royals,AL,RP,578250
+Brad Keller,Kansas City Royals,AL,SP,578175
+Adalberto Mondesi,Kansas City Royals,AL,SS,576000
+Tim Hill,Kansas City Royals,AL,RP,573175
+Eric Skoglund,Kansas City Royals,AL,SP,568175
+Hunter Dozier,Kansas City Royals,AL,3B,567225
+Jorge Lopez,Kansas City Royals,AL,SP,562250
+Ryan O'Hearn,Kansas City Royals,AL,1B,557650
+Cam Gallagher,Kansas City Royals,AL,C,557125
+Trevor Oaks,Kansas City Royals,AL,RP,555350
+Kyle Zimmer,Kansas City Royals,AL,RP,555000
+Chris Ellis,Kansas City Royals,AL,RP,555000
+Frank Schwindel,Kansas City Royals,AL,1B,555000
+Mike Trout,Los Angeles Angels,AL,CF,34083333
+Albert Pujols,Los Angeles Angels,AL,DH,28000000
+Justin Upton,Los Angeles Angels,AL,LF,19700000
+Andrelton Simmons,Los Angeles Angels,AL,SS,13000000
+Zack Cozart,Los Angeles Angels,AL,3B,12666667
+Matt Harvey,Los Angeles Angels,AL,SP,11000000
+Kole Calhoun,Los Angeles Angels,AL,RF,10833333
+Trevor Cahill,Los Angeles Angels,AL,SP,9000000
+Cody Allen,Los Angeles Angels,AL,RP,8500000
+Tyler Skaggs,Los Angeles Angels,AL,SP,3700000
+Andrew Heaney,Los Angeles Angels,AL,SP,3400000
+Jonathan Lucroy,Los Angeles Angels,AL,C,3350000
+Justin Bour,Los Angeles Angels,AL,1B,2500000
+JC Ramirez,Los Angeles Angels,AL,SP,1901000
+Cam Bedrosian,Los Angeles Angels,AL,RP,1750000
+Luis Garcia,Los Angeles Angels,AL,RP,1675000
+Hansel Robles,Los Angeles Angels,AL,RP,1400000
+Tommy La Stella,Los Angeles Angels,AL,2B,1350000
+Nick Tropeano,Los Angeles Angels,AL,SP,1075000
+Peter Bourjos,Los Angeles Angels,AL,OF,1000000
+Shohei Ohtani,Los Angeles Angels,AL,SP,650000
+Brian Goodwin,Los Angeles Angels,AL,LF,583500
+Luke Bard,Los Angeles Angels,AL,RP,575000
+Kevan Smith,Los Angeles Angels,AL,C,572500
+Felix Pena,Los Angeles Angels,AL,SP,569000
+Noe Ramirez,Los Angeles Angels,AL,RP,569000
+Chris Stratton,Los Angeles Angels,AL,SP,567500
+Keynan Middleton,Los Angeles Angels,AL,RP,563500
+David Fletcher,Los Angeles Angels,AL,SS,561500
+Justin Anderson,Los Angeles Angels,AL,RP,561500
+Taylor Cole,Los Angeles Angels,AL,RP,557500
+Ty Buttrey,Los Angeles Angels,AL,RP,557250
+Michael Hermosillo,Los Angeles Angels,AL,OF,556500
+Clayton Kershaw,Los Angeles Dodgers,NL,SP,31000000
+Russell Martin,Los Angeles Dodgers,NL,C,20000000
+Justin Turner,Los Angeles Dodgers,NL,3B,19000000
+Kenley Jansen,Los Angeles Dodgers,NL,RP,18800000
+Rich Hill,Los Angeles Dodgers,NL,SP,18666667
+Hyun-Jin Ryu,Los Angeles Dodgers,NL,SP,17900000
+A.J. Pollock,Los Angeles Dodgers,NL,CF,5250000
+Joc Pederson,Los Angeles Dodgers,NL,LF,5000000
+Joe Kelly,Los Angeles Dodgers,NL,RP,4666666
+David Freese,Los Angeles Dodgers,NL,3B,4500000
+Corey Seager,Los Angeles Dodgers,NL,SS,4000000
+Kike Hernandez,Los Angeles Dodgers,NL,2B,3725000
+Chris Taylor,Los Angeles Dodgers,NL,2B,3500000
+Kenta Maeda,Los Angeles Dodgers,NL,SP,3125000
+Tony Cingrani,Los Angeles Dodgers,NL,RP,2650000
+Pedro Baez,Los Angeles Dodgers,NL,RP,2100000
+Yimi Garcia,Los Angeles Dodgers,NL,RP,710000
+Cody Bellinger,Los Angeles Dodgers,NL,RF,605000
+Ross Stripling,Los Angeles Dodgers,NL,SP,595000
+Max Muncy,Los Angeles Dodgers,NL,1B,575000
+Austin Barnes,Los Angeles Dodgers,NL,C,575000
+Scott Alexander,Los Angeles Dodgers,NL,RP,575000
+Walker Buehler,Los Angeles Dodgers,NL,SP,570000
+Dylan Floro,Los Angeles Dodgers,NL,RP,565000
+Julio Urias,Los Angeles Dodgers,NL,SP,565000
+Brock Stewart,Los Angeles Dodgers,NL,RP,565000
+Alex Verdugo,Los Angeles Dodgers,NL,OF,560000
+Caleb Ferguson,Los Angeles Dodgers,NL,RP,560000
+Wei-Yin Chen,Miami Marlins,NL,RP,19773520
+Martin Prado,Miami Marlins,NL,3B,15000000
+Starlin Castro,Miami Marlins,NL,2B,12000000
+Jose Urena,Miami Marlins,NL,SP,3200000
+Miguel Rojas,Miami Marlins,NL,SS,3155000
+Sergio Romo,Miami Marlins,NL,RP,2500000
+Neil Walker,Miami Marlins,NL,1B,2000000
+Curtis Granderson,Miami Marlins,NL,LF,1750000
+Adam Conley,Miami Marlins,NL,RP,1125000
+Brian Anderson,Miami Marlins,NL,3B,585000
+Drew Steckenrider,Miami Marlins,NL,RP,575000
+Jorge Alfaro,Miami Marlins,NL,C,570000
+Lewis Brinson,Miami Marlins,NL,CF,570000
+Trevor Richards,Miami Marlins,NL,SP,570000
+Tayron Guerrero,Miami Marlins,NL,RP,565000
+JT Riddle,Miami Marlins,NL,SS,560000
+Rosell Herrera,Miami Marlins,NL,OF,560000
+Caleb Smith,Miami Marlins,NL,SP,556500
+Garrett Cooper,Miami Marlins,NL,RF,555000
+Chad Wallach,Miami Marlins,NL,C,555000
+Pablo Lopez,Miami Marlins,NL,SP,555000
+Sandy Alcantara,Miami Marlins,NL,SP,555000
+Tyler Kinley,Miami Marlins,NL,RP,555000
+Nick Anderson,Miami Marlins,NL,RP,555000
+Austin Brice,Miami Marlins,NL,RP,555000
+Julian Fernandez,Miami Marlins,NL,RP,555000
+Riley Ferrell,Miami Marlins,NL,RP,555000
+Yasmani Grandal,Milwaukee Brewers,NL,C,18250000
+Ryan Braun,Milwaukee Brewers,NL,LF,18158038
+Lorenzo Cain,Milwaukee Brewers,NL,CF,15000000
+Mike Moustakas,Milwaukee Brewers,NL,2B,10000000
+Christian Yelich,Milwaukee Brewers,NL,RF,9928571
+Chase Anderson,Milwaukee Brewers,NL,SP,6750000
+Jhoulys Chacin,Milwaukee Brewers,NL,SP,6750000
+Eric Thames,Milwaukee Brewers,NL,1B,6333333
+Corey Knebel,Milwaukee Brewers,NL,RP,5125000
+Travis Shaw,Milwaukee Brewers,NL,3B,4675000
+Jimmy Nelson,Milwaukee Brewers,NL,SP,3700000
+Jeremy Jeffress,Milwaukee Brewers,NL,RP,3175000
+Zach Davies,Milwaukee Brewers,NL,SP,2600000
+Matt Albers,Milwaukee Brewers,NL,RP,2500000
+Hernan Perez,Milwaukee Brewers,NL,2B,2500000
+Junior Guerra,Milwaukee Brewers,NL,SP,2225000
+Manny Pina,Milwaukee Brewers,NL,C,1750000
+Alex Claudio,Milwaukee Brewers,NL,RP,1275000
+Alex Wilson,Milwaukee Brewers,NL,RP,750000
+Josh Hader,Milwaukee Brewers,NL,RP,687600
+Jesus Aguilar,Milwaukee Brewers,NL,1B,637500
+Brent Suter,Milwaukee Brewers,NL,SP,568300
+Ben Gamel,Milwaukee Brewers,NL,OF,567700
+Jacob Barnes,Milwaukee Brewers,NL,RP,567600
+Orlando Arcia,Milwaukee Brewers,NL,SS,565700
+Freddy Peralta,Milwaukee Brewers,NL,SP,564600
+Taylor Williams,Milwaukee Brewers,NL,RP,563800
+Corbin Burnes,Milwaukee Brewers,NL,SP,562800
+Brandon Woodruff,Milwaukee Brewers,NL,SP,561400
+Bobby Wahl,Milwaukee Brewers,NL,RP,558400
+Nelson Cruz,Minnesota Twins,AL,DH,14300000
+Marwin Gonzalez,Minnesota Twins,AL,3B,12000000
+Jake Odorizzi,Minnesota Twins,AL,SP,9500000
+Addison Reed,Minnesota Twins,AL,RP,8500000
+Kyle Gibson,Minnesota Twins,AL,SP,8125000
+Jason Castro,Minnesota Twins,AL,C,8000000
+Michael Pineda,Minnesota Twins,AL,SP,8000000
+Jonathan Schoop,Minnesota Twins,AL,2B,7500000
+Max Kepler,Minnesota Twins,AL,RF,6200000
+C.J. Cron,Minnesota Twins,AL,1B,4800000
+Eddie Rosario,Minnesota Twins,AL,LF,4190000
+Jorge Polanco,Minnesota Twins,AL,SS,4158333
+Martin Perez,Minnesota Twins,AL,RP,4000000
+Miguel Sano,Minnesota Twins,AL,3B,2650000
+Blake Parker,Minnesota Twins,AL,RP,1800000
+Byron Buxton,Minnesota Twins,AL,CF,1750000
+Taylor Rogers,Minnesota Twins,AL,RP,1525000
+Ehire Adrianza,Minnesota Twins,AL,SS,1300000
+Trevor May,Minnesota Twins,AL,RP,900000
+Jose Berrios,Minnesota Twins,AL,SP,620000
+Mitch Garver,Minnesota Twins,AL,C,575000
+Jake Cave,Minnesota Twins,AL,OF,572500
+Trevor Hildenberger,Minnesota Twins,AL,RP,572500
+Tyler Austin,Minnesota Twins,AL,1B,568600
+Willians Astudillo,Minnesota Twins,AL,C,560000
+Adalberto Mejia,Minnesota Twins,AL,RP,560000
+Matt Magill,Minnesota Twins,AL,RP,560000
+Gabriel Moya,Minnesota Twins,AL,RP,560000
+Ryne Harper,Minnesota Twins,AL,RP,555000
+Yoenis Cespedes,New York Mets,NL,OF,29000000
+Robinson Cano,New York Mets,NL,2B,24000000
+Juan Lagares,New York Mets,NL,CF,9100000
+Jason Vargas,New York Mets,NL,SP,9000000
+Todd Frazier,New York Mets,NL,3B,9000000
+Jacob deGrom,New York Mets,NL,SP,9000000
+Jed Lowrie,New York Mets,NL,2B,8500000
+Wilson Ramos,New York Mets,NL,C,8000000
+Jeurys Familia,New York Mets,NL,RP,6666666
+Noah Syndergaard,New York Mets,NL,SP,6000000
+Zack Wheeler,New York Mets,NL,SP,5975000
+Justin Wilson,New York Mets,NL,RP,5000000
+Michael Conforto,New York Mets,NL,RF,4025000
+Travis d'Arnaud,New York Mets,NL,C,3515000
+Steven Matz,New York Mets,NL,SP,2625000
+Luis Avilan,New York Mets,NL,RP,1600000
+Edwin Diaz,New York Mets,NL,RP,607425
+Brandon Nimmo,New York Mets,NL,LF,598285
+Seth Lugo,New York Mets,NL,RP,591875
+Robert Gsellman,New York Mets,NL,RP,582500
+Amed Rosario,New York Mets,NL,SS,575500
+Keon Broxton,New York Mets,NL,CF,571765
+Jeff McNeil,New York Mets,NL,3B,567714
+J.D. Davis,New York Mets,NL,3B,561420
+Dominic Smith,New York Mets,NL,1B,559320
+Drew Smith,New York Mets,NL,RP,557500
+Tomas Nido,New York Mets,NL,C,556300
+Luis Guillorme,New York Mets,NL,2B,555960
+Pete Alonso,New York Mets,NL,1B,555000
+Tim Peterson,New York Mets,NL,RP,555000
+Giancarlo Stanton,New York Yankees,AL,RF,26000000
+Masahiro Tanaka,New York Yankees,AL,SP,22000000
+Jacoby Ellsbury,New York Yankees,AL,OF,21857142
+Aroldis Chapman,New York Yankees,AL,RP,17200000
+J.A. Happ,New York Yankees,AL,SP,17000000
+Zack Britton,New York Yankees,AL,RP,13000000
+DJ LeMahieu,New York Yankees,AL,2B,12000000
+Didi Gregorius,New York Yankees,AL,SS,11750000
+Adam Ottavino,New York Yankees,AL,RP,9000000
+James Paxton,New York Yankees,AL,SP,8575000
+CC Sabathia,New York Yankees,AL,SP,8000000
+Brett Gardner,New York Yankees,AL,LF,7500000
+Dellin Betances,New York Yankees,AL,RP,7250000
+Aaron Hicks,New York Yankees,AL,CF,6428571
+Luis Severino,New York Yankees,AL,SP,5187500
+Austin Romine,New York Yankees,AL,C,1800000
+Tommy Kahnle,New York Yankees,AL,RP,1387500
+Greg Bird,New York Yankees,AL,1B,1200000
+Aaron Judge,New York Yankees,AL,RF,684300
+Gary Sanchez,New York Yankees,AL,C,669800
+Miguel Andujar,New York Yankees,AL,3B,617600
+Gleyber Torres,New York Yankees,AL,2B,605200
+Chad Green,New York Yankees,AL,RP,598650
+Jordan Montgomery,New York Yankees,AL,SP,596600
+Jonathan Holder,New York Yankees,AL,RP,580300
+Luis Cessa,New York Yankees,AL,SP,578975
+Domingo German,New York Yankees,AL,RP,577500
+Luke Voit,New York Yankees,AL,1B,573200
+Stephen Tarpley,New York Yankees,AL,RP,557250
+Mike Tauchman,New York Yankees,AL,OF,557000
+Troy Tulowitzki,New York Yankees,AL,SS,555000
+Ben Heller,New York Yankees,AL,RP,555000
+Khris Davis,Oakland A's,AL,DH,16500000
+Kendrys Morales,Oakland A's,AL,DH,12000000
+Stephen Piscotty,Oakland A's,AL,RF,7500000
+Joakim Soria,Oakland A's,AL,RP,6500000
+Blake Treinen,Oakland A's,AL,RP,6400000
+Yusmeiro Petit,Oakland A's,AL,RP,6000000
+Mike Fiers,Oakland A's,AL,SP,6000000
+Marcus Semien,Oakland A's,AL,SS,5900000
+Fernando Rodney,Oakland A's,AL,RP,5250000
+Marco Estrada,Oakland A's,AL,SP,4000000
+Jurickson Profar,Oakland A's,AL,2B,3600000
+Sean Manaea,Oakland A's,AL,SP,3150000
+Liam Hendriks,Oakland A's,AL,RP,2150000
+Mark Canha,Oakland A's,AL,OF,2050000
+Robbie Grossman,Oakland A's,AL,LF,2000000
+Brett Anderson,Oakland A's,AL,SP,1500000
+Ryan Buchter,Oakland A's,AL,RP,1400000
+Nick Hundley,Oakland A's,AL,C,1250000
+Josh Phegley,Oakland A's,AL,C,1075000
+Chris Herrmann,Oakland A's,AL,C,1000000
+Matt Chapman,Oakland A's,AL,3B,580000
+Matt Olson,Oakland A's,AL,1B,575000
+Chad Pinder,Oakland A's,AL,1B,565000
+Jharel Cotton,Oakland A's,AL,SP,565000
+Chris Bassitt,Oakland A's,AL,RP,565000
+Daniel Gossett,Oakland A's,AL,SP,560000
+Frankie Montas,Oakland A's,AL,SP,560000
+Aaron Brooks,Oakland A's,AL,SP,560000
+Nick Martini,Oakland A's,AL,OF,557500
+Lou Trivino,Oakland A's,AL,RP,557500
+J.B. Wendelken,Oakland A's,AL,RP,557500
+Ramon Laureano,Oakland A's,AL,CF,557500
+Jake Arrieta,Philadelphia Phillies,NL,SP,25000000
+Jean Segura,Philadelphia Phillies,NL,SS,15050000
+Bryce Harper,Philadelphia Phillies,NL,RF,11538461
+David Robertson,Philadelphia Phillies,NL,RP,11000000
+Andrew McCutchen,Philadelphia Phillies,NL,LF,11000000
+Juan Nicasio,Philadelphia Phillies,NL,RP,9250000
+Tommy Hunter,Philadelphia Phillies,NL,RP,9000000
+Pat Neshek,Philadelphia Phillies,NL,RP,8125000
+Cesar Hernandez,Philadelphia Phillies,NL,2B,7750000
+J.T. Realmuto,Philadelphia Phillies,NL,C,5900000
+Aaron Nola,Philadelphia Phillies,NL,SP,5562500
+Odubel Herrera,Philadelphia Phillies,NL,CF,5550000
+Maikel Franco,Philadelphia Phillies,NL,3B,5200000
+Vince Velasquez,Philadelphia Phillies,NL,SP,2249000
+Jose Alvarez,Philadelphia Phillies,NL,RP,1925000
+Hector Neris,Philadelphia Phillies,NL,RP,1800000
+Scott Kingery,Philadelphia Phillies,NL,2B,1666666
+Aaron Altherr,Philadelphia Phillies,NL,RF,1350000
+Adam Morgan,Philadelphia Phillies,NL,RP,1100000
+Nick Pivetta,Philadelphia Phillies,NL,SP,598000
+Zach Eflin,Philadelphia Phillies,NL,SP,590000
+Rhys Hoskins,Philadelphia Phillies,NL,1B,575000
+Nick Williams,Philadelphia Phillies,NL,RF,575000
+Edubray Ramos,Philadelphia Phillies,NL,RP,573500
+Andrew Knapp,Philadelphia Phillies,NL,C,565000
+Seranthony Dominguez,Philadelphia Phillies,NL,RP,564000
+Roman Quinn,Philadelphia Phillies,NL,OF,559000
+Francisco Cervelli,Pittsburgh Pirates,NL,C,11500000
+Starling Marte,Pittsburgh Pirates,NL,CF,10666666
+Corey Dickerson,Pittsburgh Pirates,NL,LF,8500000
+Chris Archer,Pittsburgh Pirates,NL,SP,7758333
+Gregory Polanco,Pittsburgh Pirates,NL,OF,6700000
+Felipe Vazquez,Pittsburgh Pirates,NL,RP,4750000
+Keone Kela,Pittsburgh Pirates,NL,RP,3175000
+Jung-ho Kang,Pittsburgh Pirates,NL,3B,3000000
+Lonnie Chisenhall,Pittsburgh Pirates,NL,RF,2750000
+Jordan Lyles,Pittsburgh Pirates,NL,SP,2050000
+Francisco Liriano,Pittsburgh Pirates,NL,RP,1800000
+Melky Cabrera,Pittsburgh Pirates,NL,LF,1150000
+J.B. Shuck,Pittsburgh Pirates,NL,OF,700000
+Richard Rodriguez,Pittsburgh Pirates,NL,RP,650000
+Jameson Taillon,Pittsburgh Pirates,NL,SP,587500
+Josh Bell,Pittsburgh Pirates,NL,1B,587000
+Adam Frazier,Pittsburgh Pirates,NL,2B,584000
+Trevor Williams,Pittsburgh Pirates,NL,SP,584000
+Joe Musgrove,Pittsburgh Pirates,NL,SP,582500
+Kyle Crick,Pittsburgh Pirates,NL,RP,581500
+Edgar Santana,Pittsburgh Pirates,NL,RP,581500
+Colin Moran,Pittsburgh Pirates,NL,3B,579500
+Elias Diaz,Pittsburgh Pirates,NL,C,578500
+Chad Kuhl,Pittsburgh Pirates,NL,SP,578000
+Erik Gonzalez,Pittsburgh Pirates,NL,SS,577000
+Steven Brault,Pittsburgh Pirates,NL,RP,574500
+Jose Osuna,Pittsburgh Pirates,NL,1B,573500
+Nick Kingham,Pittsburgh Pirates,NL,RP,569000
+Dovydas Neverauskas,Pittsburgh Pirates,NL,RP,569000
+Pablo Reyes,Pittsburgh Pirates,NL,OF,565500
+Jacob Stallings,Pittsburgh Pirates,NL,C,564000
+Nick Burdi,Pittsburgh Pirates,NL,RP,559000
+Kevin Newman,Pittsburgh Pirates,NL,SS,557500
+Eric Hosmer,San Diego Padres,NL,1B,21625000
+Manny Machado,San Diego Padres,NL,3B,12000000
+Garrett Richards,San Diego Padres,NL,SP,7000000
+Wil Myers,San Diego Padres,NL,LF,5666666
+Ian Kinsler,San Diego Padres,NL,2B,4000000
+Kirby Yates,San Diego Padres,NL,RP,3062500
+Adam Warren,San Diego Padres,NL,RP,2500000
+Craig Stammen,San Diego Padres,NL,RP,2250000
+Austin Hedges,San Diego Padres,NL,C,2060000
+Robbie Erlin,San Diego Padres,NL,SP,1450000
+Aaron Loup,San Diego Padres,NL,RP,1400000
+Travis Jankowski,San Diego Padres,NL,OF,1165000
+Greg Garcia,San Diego Padres,NL,2B,910000
+Hunter Renfroe,San Diego Padres,NL,RF,582100
+Matt Strahm,San Diego Padres,NL,SP,581700
+Manuel Margot,San Diego Padres,NL,CF,577100
+Franmil Reyes,San Diego Padres,NL,RF,570500
+Dinelson Lamet,San Diego Padres,NL,SP,566700
+Joey Lucchesi,San Diego Padres,NL,SP,565100
+Phil Maton,San Diego Padres,NL,RP,562900
+Eric Lauer,San Diego Padres,NL,SP,562500
+Socrates Brito,San Diego Padres,NL,RF,561000
+Miguel Diaz,San Diego Padres,NL,RP,560400
+Jose Castillo,San Diego Padres,NL,RP,560300
+Franchy Cordero,San Diego Padres,NL,CF,560100
+Robert Stock,San Diego Padres,NL,RP,559900
+Trey Wingenter,San Diego Padres,NL,RP,557200
+Jacob Nix,San Diego Padres,NL,SP,556800
+Francisco Mejia,San Diego Padres,NL,C,556300
+Brett Kennedy,San Diego Padres,NL,SP,556000
+Chris Paddack,San Diego Padres,NL,SP,555000
+Fernando Tatis Jr.,San Diego Padres,NL,SS,555000
+Felix Hernandez,Seattle Mariners,AL,SP,27857143
+Edwin Encarnacion,Seattle Mariners,AL,1B,23333333
+Kyle Seager,Seattle Mariners,AL,3B,19500000
+Mike Leake,Seattle Mariners,AL,SP,17000000
+Jay Bruce,Seattle Mariners,AL,RF,14000000
+Dee Gordon,Seattle Mariners,AL,2B,13500000
+Yusei Kikuchi,Seattle Mariners,AL,SP,9500000
+Anthony Swarzak,Seattle Mariners,AL,RP,8500000
+Wade LeBlanc,Seattle Mariners,AL,SP,2750000
+Domingo Santana,Seattle Mariners,AL,LF,1950000
+Tim Beckham,Seattle Mariners,AL,SS,1750000
+Cory Gearrin,Seattle Mariners,AL,RP,1500000
+Hunter Strickland,Seattle Mariners,AL,RP,1300000
+Roenis Elias,Seattle Mariners,AL,RP,910000
+Marco Gonzales,Seattle Mariners,AL,SP,900000
+Zac Rosscup,Seattle Mariners,AL,RP,610000
+Mitch Haniger,Seattle Mariners,AL,LF,590100
+Omar Narvaez,Seattle Mariners,AL,C,581200
+Ryon Healy,Seattle Mariners,AL,3B,579800
+Mallex Smith,Seattle Mariners,AL,CF,578400
+Brandon Brennan,Seattle Mariners,AL,RP,575000
+Sam Tuivailala,Seattle Mariners,AL,RP,568600
+Dylan Moore,Seattle Mariners,AL,3B,565000
+Chasen Bradford,Seattle Mariners,AL,RP,562300
+Nick Rumbelow,Seattle Mariners,AL,RP,559300
+Shawn Armstrong,Seattle Mariners,AL,RP,559100
+Daniel Vogelbach,Seattle Mariners,AL,1B,558600
+David Freitas,Seattle Mariners,AL,C,558500
+Matt Festa,Seattle Mariners,AL,RP,555500
+Gerson Bautista,Seattle Mariners,AL,RP,555200
+Johnny Cueto,San Francisco Giants,NL,SP,22666666
+Buster Posey,San Francisco Giants,NL,C,22511111
+Jeff Samardzija,San Francisco Giants,NL,SP,19800000
+Mark Melancon,San Francisco Giants,NL,RP,19000000
+Pablo Sandoval,San Francisco Giants,NL,3B,18600000
+Brandon Belt,San Francisco Giants,NL,1B,17200000
+Evan Longoria,San Francisco Giants,NL,3B,15500000
+Brandon Crawford,San Francisco Giants,NL,SS,15200000
+Madison Bumgarner,San Francisco Giants,NL,SP,12000000
+Derek Holland,San Francisco Giants,NL,SP,7000000
+Tony Watson,San Francisco Giants,NL,RP,6500000
+Sam Dyson,San Francisco Giants,NL,RP,5000000
+Will Smith,San Francisco Giants,NL,RP,4225000
+Joe Panik,San Francisco Giants,NL,2B,3850000
+Gerardo Parra,San Francisco Giants,NL,RF,1750000
+Yangervis Solarte,San Francisco Giants,NL,3B,1750000
+Drew Pomeranz,San Francisco Giants,NL,SP,1500000
+Erik Kratz,San Francisco Giants,NL,C,1200000
+Reyes Moronta,San Francisco Giants,NL,RP,567500
+Trevor Gott,San Francisco Giants,NL,RP,567500
+Dereck Rodriguez,San Francisco Giants,NL,SP,561250
+Steven Duggar,San Francisco Giants,NL,CF,558125
+Michael Reed,San Francisco Giants,NL,RF,557500
+Travis Bergen,San Francisco Giants,NL,RP,555000
+Connor Joe,San Francisco Giants,NL,3B,555000
+Nick Vincent,San Francisco Giants,NL,RP,555000
+Yadier Molina,St. Louis Cardinals,NL,C,20000000
+Dexter Fowler,St. Louis Cardinals,NL,RF,16500000
+Matt Carpenter,St. Louis Cardinals,NL,3B,15333333
+Paul Goldschmidt,St. Louis Cardinals,NL,1B,15000000
+Jedd Gyorko,St. Louis Cardinals,NL,3B,13166666
+Marcell Ozuna,St. Louis Cardinals,NL,LF,12250000
+Andrew Miller,St. Louis Cardinals,NL,RP,12250000
+Carlos Martinez,St. Louis Cardinals,NL,SP,11800000
+Miles Mikolas,St. Louis Cardinals,NL,SP,8000000
+Brett Cecil,St. Louis Cardinals,NL,RP,7750000
+Kolten Wong,St. Louis Cardinals,NL,2B,6700000
+Michael Wacha,St. Louis Cardinals,NL,SP,6350000
+Luke Gregerson,St. Louis Cardinals,NL,RP,5500000
+Paul DeJong,St. Louis Cardinals,NL,SS,2000000
+Adam Wainwright,St. Louis Cardinals,NL,SP,2000000
+Matt Wieters,St. Louis Cardinals,NL,C,1500000
+Dominic Leone,St. Louis Cardinals,NL,RP,1260000
+Jose Martinez,St. Louis Cardinals,NL,LF,1125000
+Harrison Bader,St. Louis Cardinals,NL,CF,578300
+John Gant,St. Louis Cardinals,NL,SP,571300
+John Brebbia,St. Louis Cardinals,NL,RP,569300
+Alex Reyes,St. Louis Cardinals,NL,SP,564600
+Drew Robinson,St. Louis Cardinals,NL,3B,564100
+Tyler O'Neill,St. Louis Cardinals,NL,OF,564000
+Mike Mayers,St. Louis Cardinals,NL,RP,563700
+Jack Flaherty,St. Louis Cardinals,NL,SP,562100
+Yairo Munoz,St. Louis Cardinals,NL,SS,562000
+Dakota Hudson,St. Louis Cardinals,NL,SP,559100
+Justin Williams,St. Louis Cardinals,NL,OF,555100
+Jordan Hicks,St. Louis Cardinals,NL,RP,555000
+Charlie Morton,Tampa Bay Rays,AL,SP,15000000
+Kevin Kiermaier,Tampa Bay Rays,AL,CF,8583333
+Mike Zunino,Tampa Bay Rays,AL,C,4412500
+Tommy Pham,Tampa Bay Rays,AL,LF,4100000
+Avisail Garcia,Tampa Bay Rays,AL,RF,3500000
+Matt Duffy,Tampa Bay Rays,AL,3B,2675000
+Blake Snell,Tampa Bay Rays,AL,SP,1600000
+Chaz Roe,Tampa Bay Rays,AL,RP,1275000
+Brandon Lowe,Tampa Bay Rays,AL,2B,1166666
+Ji-Man Choi,Tampa Bay Rays,AL,1B,850000
+Guillermo Heredia,Tampa Bay Rays,AL,OF,782000
+Jose Alvarado,Tampa Bay Rays,AL,RP,570600
+Joey Wendle,Tampa Bay Rays,AL,3B,570400
+Daniel R. Robertson,Tampa Bay Rays,AL,2B,570300
+Tyler Glasnow,Tampa Bay Rays,AL,SP,566700
+Ryne Stanek,Tampa Bay Rays,AL,RP,564200
+Ryan Yarbrough,Tampa Bay Rays,AL,SP,563400
+Willy Adames,Tampa Bay Rays,AL,SS,562400
+Yonny Chirinos,Tampa Bay Rays,AL,SP,561800
+Diego Castillo,Tampa Bay Rays,AL,RP,561500
+Adam Kolarek,Tampa Bay Rays,AL,RP,560800
+Wilmer Font,Tampa Bay Rays,AL,RP,560400
+Yandy Diaz,Tampa Bay Rays,AL,3B,558400
+Jose De Leon,Tampa Bay Rays,AL,RP,558000
+Austin Meadows,Tampa Bay Rays,AL,RF,557400
+Anthony Banda,Tampa Bay Rays,AL,SP,556800
+Michael Perez,Tampa Bay Rays,AL,C,556700
+Jalen Beeks,Tampa Bay Rays,AL,RP,556500
+Shin-Soo Choo,Texas Rangers,AL,DH,21000000
+Elvis Andrus,Texas Rangers,AL,SS,15250000
+Mike Minor,Texas Rangers,AL,SP,9833333
+Lance Lynn,Texas Rangers,AL,SP,9333333
+Rougned Odor,Texas Rangers,AL,2B,8333333
+Drew Smyly,Texas Rangers,AL,SP,7000000
+Jesse Chavez,Texas Rangers,AL,RP,4000000
+Asdrubal Cabrera,Texas Rangers,AL,3B,3500000
+Nomar Mazara,Texas Rangers,AL,RF,3300000
+Jeff Mathis,Texas Rangers,AL,C,3250000
+Shawn Kelley,Texas Rangers,AL,RP,2750000
+Chris Martin,Texas Rangers,AL,RP,2250000
+Shelby Miller,Texas Rangers,AL,SP,2000000
+Edinson Volquez,Texas Rangers,AL,SP,2000000
+Logan Forsythe,Texas Rangers,AL,2B,2000000
+Hunter Pence,Texas Rangers,AL,LF,2000000
+Jose Leclerc,Texas Rangers,AL,RP,1687500
+Delino DeShields,Texas Rangers,AL,CF,1400000
+Jeanmar Gomez,Texas Rangers,AL,RP,1000000
+Joey Gallo,Texas Rangers,AL,LF,605500
+Ronald Guzman,Texas Rangers,AL,1B,569500
+Isiah Kiner-Falefa,Texas Rangers,AL,C,569500
+Yohander Mendez,Texas Rangers,AL,SP,558000
+Luke Farrell,Texas Rangers,AL,RP,558000
+Jeffrey Springs,Texas Rangers,AL,RP,557000
+Scott Heineman,Texas Rangers,AL,OF,555000
+Kyle Dowdy,Texas Rangers,AL,RP,555000
+Kyle Bird,Texas Rangers,AL,RP,555000
+Justin Smoak,Toronto Blue Jays,AL,1B,8000000
+Marcus Stroman,Toronto Blue Jays,AL,SP,7400000
+Ken Giles,Toronto Blue Jays,AL,RP,6300000
+Kevin Pillar,Toronto Blue Jays,AL,CF,5800000
+Randal Grichuk,Toronto Blue Jays,AL,RF,5000000
+Freddy Galvis,Toronto Blue Jays,AL,SS,5000000
+Aaron Sanchez,Toronto Blue Jays,AL,SP,3900000
+Matt Shoemaker,Toronto Blue Jays,AL,SP,3500000
+Clayton Richard,Toronto Blue Jays,AL,SP,3300000
+Clay Buchholz,Toronto Blue Jays,AL,SP,3000000
+David Phelps,Toronto Blue Jays,AL,RP,2500000
+Lourdes Gurriel Jr.,Toronto Blue Jays,AL,2B,1928571
+Devon Travis,Toronto Blue Jays,AL,2B,1925000
+Ryan Tepera,Toronto Blue Jays,AL,RP,1525000
+Daniel Hudson,Toronto Blue Jays,AL,RP,1500000
+Brandon Drury,Toronto Blue Jays,AL,3B,1300000
+Joe Biagini,Toronto Blue Jays,AL,RP,900000
+Sam Gaviglio,Toronto Blue Jays,AL,RP,579500
+Luke Maile,Toronto Blue Jays,AL,C,579000
+Teoscar Hernandez,Toronto Blue Jays,AL,LF,578600
+Tim Mayza,Toronto Blue Jays,AL,RP,568300
+Ryan Borucki,Toronto Blue Jays,AL,SP,565200
+Dalton Pompey,Toronto Blue Jays,AL,OF,562800
+Richard Urena,Toronto Blue Jays,AL,SS,562000
+Thomas Pannone,Toronto Blue Jays,AL,RP,560100
+Billy McKinney,Toronto Blue Jays,AL,OF,559400
+Danny Jansen,Toronto Blue Jays,AL,C,558700
+Jonathan Davis,Toronto Blue Jays,AL,OF,556500
+Trent Thornton,Toronto Blue Jays,AL,SP,555000
+Elvis Luciano,Toronto Blue Jays,AL,RP,555000
+Javy Guerra,Toronto Blue Jays,AL,RP,555000
+Rowdy Tellez,Toronto Blue Jays,AL,1B,555000
+Max Scherzer,Washington Nationals,NL,SP,42142857
+Stephen Strasburg,Washington Nationals,NL,SP,36428571
+Anthony Rendon,Washington Nationals,NL,3B,18800000
+Ryan Zimmerman,Washington Nationals,NL,1B,18333333
+Patrick Corbin,Washington Nationals,NL,SP,12916666
+Brian Dozier,Washington Nationals,NL,2B,9000000
+Anibal Sanchez,Washington Nationals,NL,SP,9000000
+Adam Eaton,Washington Nationals,NL,RF,8700000
+Yan Gomes,Washington Nationals,NL,C,7250000
+Trevor Rosenthal,Washington Nationals,NL,RP,7000000
+Sean Doolittle,Washington Nationals,NL,RP,6500000
+Matt Adams,Washington Nationals,NL,1B,4000000
+Kurt Suzuki,Washington Nationals,NL,C,4000000
+Howie Kendrick,Washington Nationals,NL,OF,4000000
+Trea Turner,Washington Nationals,NL,SS,3725000
+Michael A. Taylor,Washington Nationals,NL,CF,3250000
+Kyle Barraclough,Washington Nationals,NL,RP,1725000
+Jeremy Hellickson,Washington Nationals,NL,RP,1300000
+Tony Sipp,Washington Nationals,NL,RP,1250000
+Justin Miller,Washington Nationals,NL,RP,593200
+Wilmer Difo,Washington Nationals,NL,2B,581100
+Juan Soto,Washington Nationals,NL,LF,578300
+Matt Grace,Washington Nationals,NL,RP,576400
+Koda Glover,Washington Nationals,NL,RP,564300
+Wander Suero,Washington Nationals,NL,RP,562500
+Andrew Stevenson,Washington Nationals,NL,OF,559100
+Victor Robles,Washington Nationals,NL,CF,557800
+Jake Noll,Washington Nationals,NL,2B,555000
